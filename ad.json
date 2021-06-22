@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "DataType": "ad_priority (FB/Google)",
+      "DataValue": "FB"
+    },
+    {
+      "DataType": "g_interval 1 Second",
+      "DataValue": "2"
+    },
+    {
+      "DataType": "g_bannerCount  Number of Ads :- 500",
+      "DataValue": "500"
+    },
+    {
+      "DataType": "g_interCount Number of Ads :- 500",
+      "DataValue": "500"
+    },
+    {
+      "DataType": "g_nativeCount Number of Ads :- 500",
+      "DataValue": "500"
+    },
+
+    {
+      "DataType": "fb_interval 1 Second",
+      "DataValue": "2"
+    },
+    {
+      "DataType": "fb_bannerCount Number of Ads :- 500",
+      "DataValue": "500"
+    },
+    {
+      "DataType": "fb_interCount Number of Ads :- 500",
+      "DataValue": "500"
+    },
+    {
+      "DataType": "fb_nativeCount Number of Ads :- 500",
+      "DataValue": "500"
+    },
+
+
+
+{
+      "DataType": "G_BannerAd",
+      "DataValue": "ca-app-pub-3940256099942544/6300978111"
+    },
+{
+      "DataType": "G_InterAd",
+      "DataValue": "ca-app-pub-3940256099942544/1033173712"
+    },
+{
+      "DataType": "G_NativeAd",
+      "DataValue": "ca-app-pub-3940256099942544/2247696110"
+    },
+{
+      "DataType": "G_Video_Ad",
+      "DataValue": "ca-app-pub-3940256099942544/5224354917"
+    },
+{
+      "DataType": "G_AppOpenAd",
+      "DataValue": "ca-app-pub-3940256099942544/3419835294"
+    },
+{
+      "DataType": "Fb_Banner_ads",
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+{
+      "DataType": "Fb_Inter_ads",
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+{
+      "DataType": "Fb_Native_Ads",
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+  ]
+}
