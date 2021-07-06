@@ -2,7 +2,7 @@
   "user": [
     {
       "DataType": "ad_priority (FB/Google)",
-      "DataValue": "FB"
+      "DataValue": "Google"
     },
     {
       "DataType": "g_interval 1 Second",
