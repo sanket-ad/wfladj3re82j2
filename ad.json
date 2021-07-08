@@ -6,7 +6,7 @@
     },
     {
       "DataType": "g_interval 1 Second",
-      "DataValue": "2"
+      "DataValue": "4"
     },
     {
       "DataType": "g_bannerCount  Number of Ads :- 500",
@@ -23,7 +23,7 @@
 
     {
       "DataType": "fb_interval 1 Second",
-      "DataValue": "2"
+      "DataValue": "4"
     },
     {
       "DataType": "fb_bannerCount Number of Ads :- 500",
